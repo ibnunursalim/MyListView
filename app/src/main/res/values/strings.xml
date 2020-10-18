@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">PANCILLUMINATION</string>
+    <string name="lorem">a i u e o</string>
+
+    <string-array name="data_name">
+        <item>Bung Tomo</item>
+        <item>M hatta</item>
+        <item>Ir Soekarno</item>
+        <item>R Kartini</item>
+        <item>Jendral Soedirman</item>
+        <item>Soepomo</item>
+        <item>Whiji Thukul</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Sutomo lebih dikenal dengan sapaan akrab oleh rakyat sebagai Bung Tomo, adalah pahlawan yang terkenal karena peranannya dalam membangkitkan semangat rakyat untuk melawan kembalinya penjajah Belanda</item>
+        <item>Dr. Drs. H. Mohammad Hatta adalah negarawan dan ekonom Indonesia yang menjabat sebagai Wakil Presiden Indonesia pertama. Ia bersama Soekarno memainkan peranan sentral dalam perjuangan kemerdekaan Indonesia dari penjajahan Belanda sekaligus memproklamirkannya pada 17 Agustus 1945</item>
+        <item>Dr. Ir. H. Soekarno adalah Presiden pertama Republik Indonesia yang menjabat pada periode 1945–1967. Ia memainkan peranan penting dalam memerdekakan bangsa Indonesia dari penjajahan Belanda. Ia adalah Proklamator Kemerdekaan Indonesia yang terjadi pada tanggal 17 Agustus 1945.</item>
+        <item>Lahir dari keluarga bangsawan, ia gunakan kesempatan itu untuk memajukan perempuan pribumi Jawa. Ia meninggal pada usia 25 tahun dan hari kelahirannya diperingati sebagai Hari Kartini.</item>
+        <item>Jenderal Besar TNI Raden Soedirman adalah seorang perwira tinggi Indonesia pada masa Revolusi Nasional Indonesia. Sebagai panglima besar Tentara Nasional Indonesia pertama, ia adalah sosok yang dihormati di Indonesia.</item>
+        <item>Prof. Dr. Mr. Soepomo adalah seorang pahlawan nasional Indonesia. Soepomo dikenal sebagai arsitek Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan Soekarno</item>
+        <item>Widji Thukul, yang bernama asli Widji Widodo adalah penyair dan aktivis hak asasi manusia berkebangsaan Indonesia. Thukul merupakan salah satu tokoh yang ikut melawan penindasan rezim Orde Baru. Sejak 1998 sampai sekarang dia tidak diketahui keberadaannya, dinyatakan hilang dengan dugaan diculik oleh militer.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/bung</item>
+        <item>@drawable/hata</item>
+        <item>@drawable/ir</item>
+        <item>@drawable/rkartini</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/supomo</item>
+        <item>@drawable/wiji</item>
+    </array>
+</resources>
